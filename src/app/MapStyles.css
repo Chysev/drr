@@ -1,0 +1,18 @@
+.leaflet-control-geosearch .results {
+  color: #000;
+}
+
+.leaflet-control-geosearch input {
+  color: #000 !important;
+  background-color: #fff !important;
+  border-color: #ccc;
+}
+
+.leaflet-control-geosearch .leaflet-control-geosearch-bar {
+  color: #000;
+  font-size: 14px;
+}
+
+.leaflet-control-geosearch .leaflet-control-geosearch-bar input::placeholder {
+  color: #666;
+}
